@@ -232,7 +232,7 @@ const developer = {
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-### ⭐ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
+### ⭐ From rishi(https://github.com/rishii17)
 
 </div>
 
@@ -241,7 +241,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/rishii17/rishii17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
