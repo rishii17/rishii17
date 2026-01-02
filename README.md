@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rishi
 
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🎯 Tech Enthusiast
 
@@ -14,21 +14,21 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Rishi",
     role: "Full Stack Developer",
-    location: "Your Location",
-    experience: "X+ years",
+    location: "Badulla ,Srilanka",
+    experience: "1+ years",
     currentFocus: ["Web Development", "Cloud Architecture", "AI/ML"],
     learning: ["Next.js 14", "TypeScript", "System Design"],
     hobbies: ["Open Source", "Tech Blogging", "Mentoring"]
 };
 ```
 
-- 🔭 Currently working on **[Your Current Project]**
+- 🔭 Currently working on **Employee Management System**
 - 🌱 Learning **Advanced System Design & Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me: **[your.email@example.com]**
+- 📫 Reach me: **gnanasegaranrishi@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 ---
@@ -104,16 +104,16 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishii17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishii17&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishii17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishii17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
